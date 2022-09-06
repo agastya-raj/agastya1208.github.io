@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Agastya Raj
+Agastya Raj
+PhD Candidate at Trinity College Dublin, specializing in Optical Networks
 
 Show Contacts
 
 Email
-richard@example.com
+me@agastya-raj.com
 
 Phone
-+1 (213) 352-2795
++353 083 207 6620
 
 Birthday
-June 23, 1982
+August 12
 
 Location
-Sacramento, California, USA
+Dublin, Ireland
 
 # navbar
 
